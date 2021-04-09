@@ -12,6 +12,8 @@ The EKF SLAM algorithm is inapplicable to the full SLAM problem. In the full SLA
 
 ## Results
 
+In the output figure, the magenta and blue ellipses represent the predicted and updated uncertainties of the robot’s position at each time respectively. The black dots are the ground truth positions of the landmarks. Also, the red and green ellipses represent the initial and all the updated uncertainties of the landmarks, respectively.
+
 ![result](result.png)
 
 ## Academic Integrity Policy
